@@ -24,7 +24,7 @@ Btw it's not just another Electron app 😉
 
 </div>
 
-## 🌃 Features
+## 🌃 Features.
 
 - 🧩 Plugin powered, supports any platform or custom music service through plugins.
 - 🗺️ Community driven plugins for popular platforms or create your own.
