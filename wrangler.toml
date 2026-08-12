@@ -1,0 +1,9 @@
+name = "spotube"
+type = "javascript"
+
+[env.production]
+name = "spotube"
+
+[build]
+command = "flutter build web"
+cwd = "./"
