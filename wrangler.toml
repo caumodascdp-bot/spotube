@@ -1,7 +1,2 @@
 name = "spotube"
-type = "javascript"
 pages_build_output_dir = "build/web"
-
-[build]
-command = "bash build.sh"
-cwd = "./"
