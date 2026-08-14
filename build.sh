@@ -8,8 +8,8 @@ export PATH="$PWD/flutter-sdk/bin:$PATH"
 echo "Verifying Flutter installation..."
 flutter --version
 
-echo "Getting Flutter dependencies (web only)..."
-flutter pub get --no-dev
+echo "Getting Flutter dependencies..."
+flutter pub get
 
 echo "Building web version..."
 flutter build web --release --no-tree-shake-icons
